@@ -3,3 +3,5 @@ LabelSea is a streamlined toolkit for marine video annotation workflow. One comm
 
 Installation:
 
+
+Exhaustive species list:
